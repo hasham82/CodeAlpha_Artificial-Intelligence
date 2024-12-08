@@ -44,4 +44,3 @@ Conclusion
 
 This internship provided me with a platform to design and develop AI-based projects that address real-world challenges. From creating user-friendly interfaces to leveraging deep learning models, I gained hands-on experience with a variety of tools and technologies. Each project reflects a unique aspect of AI's potential and its transformative impact across industries.
 
-Feel free to explore the code and documentation for these projects in this repository! 😊
