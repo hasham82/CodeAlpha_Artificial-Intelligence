@@ -1,1 +1,0 @@
-A folder of Yolov10 is unable to load on the GitHub because of limit issues. So, in order to run, you need to clone the Yolov10 repository: https://github.com/THU-MIG/yolov10 and then you are good to go.
