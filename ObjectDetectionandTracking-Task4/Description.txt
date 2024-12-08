@@ -1,0 +1,2 @@
+Real-Time Object Detection with YOLOv10
+This project implements real-time object detection using the YOLOv10 architecture. It captures live video from a webcam to detect and classify objects with high speed and accuracy. Built with Python and OpenCV, the system is efficient and versatile, making it suitable for applications such as surveillance, robotics, interactive systems, and more. 🚀
