@@ -1,0 +1,2 @@
+AI-Powered Music Generation
+This project uses deep learning to generate original music inspired by classical compositions. By training a Long Short-Term Memory (LSTM) neural network on MIDI files of Beethoven's works, the model learns musical patterns and creates unique compositions. The project leverages Python, TensorFlow, and Music21, with GPU support via Google Colab for efficient training. The output is saved as a MIDI file, ready to be played or further refined. Perfect for exploring AI-driven creativity in music! 🎵
